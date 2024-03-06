@@ -1,0 +1,1 @@
+export const _PHONE_NO = "+91 12345 67890"
